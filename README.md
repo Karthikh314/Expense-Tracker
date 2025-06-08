@@ -3,7 +3,7 @@ This HTML, CSS, and JavaScript-based spending tracker will help you manage your 
 
 This Expense Tracker Web App is a simple tool built with HTML, CSS, and JavaScript to help users manage their finances effectively. Keep track of your income and expenses, add new transactions, and visualize your financial health.
 
-Features**
+#Features
 
 Transaction Management: Add income or expenses with ease by entering the transaction details.
 Dynamic Updates: Real-time updates of balance, income, and expenses displayed on the interface.
