@@ -22,7 +22,9 @@ Delete transactions by clicking the "x" button next to each entry.
 Technologies Used
 
 HTML: Structure the web page.
+
 CSS: Style the user interface for a visually appealing experience.
+
 JavaScript: Implement the dynamic functionality of the Expense Tracker.
 
 
